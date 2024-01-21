@@ -1,0 +1,26 @@
+
+# Inside root total content is replaced by ReactDOM render
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Namaste React</title>
+</head>
+<body>
+    <div id="root">
+        <h1>namasthe react</h1>
+    </div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+<script src="./App.js"></script>
+</body>
+</html>
+
+
+
+# React is a library only because it work independently a small portion of our application.
