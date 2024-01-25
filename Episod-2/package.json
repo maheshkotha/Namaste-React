@@ -1,0 +1,25 @@
+{
+  "name": "episod-2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste_react"
+  ],
+  "author": "mahesh",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
