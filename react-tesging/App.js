@@ -1,9 +1,12 @@
 import React from "react";
 import ReactDOM from 'react-dom/client';
+import Contact from "./components/Contact";
 // import ReactDOM from "react-dom/client";
 
 
-const reactElemen = React.createElement("h1", {}, "React Heading Element");
+const reactElemen = <div>
+  <Contact />
+</div>
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 

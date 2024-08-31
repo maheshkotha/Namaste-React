@@ -59,6 +59,10 @@ code: babel.config.js
 - Configure Parcel Config file to disabel default babel transpilation (Babel , Webpack, vite)
 - nex jest init for config jest.config.js
 - Install jsdom library
+- Install @babel/preset-react for react to html
+- Install @testing-library/jest-dom
+
+
 
 
 
